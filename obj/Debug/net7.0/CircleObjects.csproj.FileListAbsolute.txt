@@ -1,0 +1,15 @@
+/Users/tomk/Projects/CircleObjects/bin/Debug/net7.0/CircleObjects
+/Users/tomk/Projects/CircleObjects/bin/Debug/net7.0/CircleObjects.deps.json
+/Users/tomk/Projects/CircleObjects/bin/Debug/net7.0/CircleObjects.runtimeconfig.json
+/Users/tomk/Projects/CircleObjects/bin/Debug/net7.0/CircleObjects.dll
+/Users/tomk/Projects/CircleObjects/bin/Debug/net7.0/CircleObjects.pdb
+/Users/tomk/Projects/CircleObjects/obj/Debug/net7.0/CircleObjects.csproj.AssemblyReference.cache
+/Users/tomk/Projects/CircleObjects/obj/Debug/net7.0/CircleObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tomk/Projects/CircleObjects/obj/Debug/net7.0/CircleObjects.AssemblyInfoInputs.cache
+/Users/tomk/Projects/CircleObjects/obj/Debug/net7.0/CircleObjects.AssemblyInfo.cs
+/Users/tomk/Projects/CircleObjects/obj/Debug/net7.0/CircleObjects.csproj.CoreCompileInputs.cache
+/Users/tomk/Projects/CircleObjects/obj/Debug/net7.0/CircleObjects.dll
+/Users/tomk/Projects/CircleObjects/obj/Debug/net7.0/refint/CircleObjects.dll
+/Users/tomk/Projects/CircleObjects/obj/Debug/net7.0/CircleObjects.pdb
+/Users/tomk/Projects/CircleObjects/obj/Debug/net7.0/CircleObjects.genruntimeconfig.cache
+/Users/tomk/Projects/CircleObjects/obj/Debug/net7.0/ref/CircleObjects.dll
